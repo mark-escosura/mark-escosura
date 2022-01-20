@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Twitter: ayeitsmaark](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ayeitsmaark)
+[![Linkedin: markintech](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mark-escosura/)](https://www.linkedin.com/in/thaianebraga/)
+[![GitHub mark-escosura](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/mark-escosura)
+
 ```javascript
 const filipino = {
   pronouns: "he" | "him",
