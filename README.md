@@ -30,16 +30,16 @@ Here are some ideas to get you started:
 </div>
 
 
-<!--START_SECTION:mark-->
-## This week i spent my time on:
+📊 **this week i spent my time on:**`
+<!--START_SECTION:waka-->
 ```text
-JavaScript   24 hrs 46 mins  ████████████████████████░   95.91 % 
+JavaScript   44 hrs 46 mins  ████████████████████████░   95.91 % 
 JSON         52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 HTML         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 TypeScript   18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 Git Config   12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 ```
-<!--END_SECTION:mark-->
+<!--END_SECTION:waka-->
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
