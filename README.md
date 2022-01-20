@@ -15,6 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+```javascript
+const filipino = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS],
+  tools: [React, Redux, Node, ExpressJS, Styled-Components, Yup],
+  
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and ExpressJS"
+}
+```
+
 ## 📊 This week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
