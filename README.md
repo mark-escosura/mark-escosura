@@ -1,4 +1,4 @@
-### Hi there 👋
+### Yo Whats good! 👋
 
 <!--
 **mark-escosura/mark-escosura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📊 **this week i spent my time on:**
+<!--START_SECTION:mark-->
+```text
+JavaScript   24 hrs 46 mins  ████████████████████████░   95.91 % 
+JSON         52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+HTML         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+TypeScript   18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Git Config   12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+```
+<!--END_SECTION:mark-->
+
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 # Languages and Tools:
 
