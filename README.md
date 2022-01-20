@@ -45,4 +45,4 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ## 📈 GitHub Stats:
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mark-escosura&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mark-escosura&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
