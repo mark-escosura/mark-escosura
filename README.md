@@ -26,6 +26,14 @@ Git Config   12 mins         ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/markintech" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+## 📈 GitHub Stats:
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mark-escosura&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+  
 ## 📚 Languages and Tools:
 <!--START_SECTION:mark-->
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -38,12 +46,3 @@ Git Config   12 mins         ░░░░░░░░░░░░░░░░░
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <!--END_SECTION:mark-->
-<div display=flex >
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/markintech" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-</div>
-
-## 📈 GitHub Stats:
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mark-escosura&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
