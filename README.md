@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <!--END_SECTION:mark-->
 
-📊 **this week i spent my time on:**
+## This week i spent my time on:
 <!--START_SECTION:mark-->
 ```text
 JavaScript   24 hrs 46 mins  ████████████████████████░   95.91 % 
