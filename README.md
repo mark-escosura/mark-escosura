@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📊 **this week i spent my time on:**`
+## 📊 This week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
 JavaScript   44 hrs 46 mins  ████████████████████████░   95.91 % 
