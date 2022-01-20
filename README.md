@@ -42,8 +42,6 @@ TypeScript   18 mins         ░░░░░░░░░░░░░░░░░
 Git Config   12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 ```
 <!--END_SECTION:waka-->
-## Most Used Languages
-![Most Used Languages](https://raw.githubusercontent.com/mark-escosura/github-stats-transparent/output/generated/languages.svg)
 
 ## 📈 GitHub Stats:
 
