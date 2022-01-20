@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![Twitter: ayeitsmaark](https://img.shields.io/twitter/follow/MarkEscosura?style=social)](https://twitter.com/ayeitsmaark)
-[![Linkedin: markintech](https://img.shields.io/badge/-mark-escosura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mark-escosura/)](https://www.linkedin.com/in/mark-escosura/)
+[![Linkedin: markintech](https://img.shields.io/badge/-markintech-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mark-escosura/)](https://www.linkedin.com/in/mark-escosura/)
 [![GitHub mark-escosura](https://img.shields.io/github/followers/mark-escosura?label=follow&style=social)](https://github.com/mark-escosura)
 
 ```javascript
