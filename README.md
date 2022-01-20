@@ -29,8 +29,9 @@ Here are some ideas to get you started:
 <!--END_SECTION:mark-->
 </div>
 
-## This week i spent my time on:
+
 <!--START_SECTION:mark-->
+## This week i spent my time on:
 ```text
 JavaScript   24 hrs 46 mins  ████████████████████████░   95.91 % 
 JSON         52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
