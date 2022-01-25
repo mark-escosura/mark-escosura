@@ -25,7 +25,7 @@ const filipino = {
   code: [Javascript, HTML, CSS],
   tools: [React, Redux, Node, ExpressJS, Styled-Components, MySQL, MongoDB],
   
- challenge: "I am doing the #100DaysOfCode challenge focused on react and ExpressJS"
+ challenge: "I am doing the #100DaysOfCode challenge focused on MERN stack"
 }
 ```
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
