@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 const filipino = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
-  tools: [React, Redux, Node, ExpressJS, Styled-Components, MySQL, MongoDB],
+  tools: [React, Redux, Node, ExpressJS, Styled-Components, PostgreSQL, MongoDB],
   
  challenge: "I am doing the #100DaysOfCode challenge focused on MERN stack"
 }
