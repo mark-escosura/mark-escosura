@@ -28,9 +28,6 @@ const filipino = {
  challenge: "I am doing the #100DaysOfCode challenge focused on MERN stack"
 }
 ```
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/markintech" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ## 📊 This week i spent my time on:**
 <!--START_SECTION:waka-->
