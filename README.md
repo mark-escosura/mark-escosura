@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 const filipino = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
-  tools: [React, Redux, Node, ExpressJS, Styled-Components, PostgreSQL, MongoDB],
-  
- challenge: "I am doing the #100DaysOfCode challenge focused on MERN stack"
+  tools: [React, Redux, Node, ExpressJS, Styled-Components, SQL, MongoDB],
+ 
+  challenge: "learn, code, commit, push every single day"
 }
 ```
 
@@ -42,7 +42,7 @@ Git Config   12 mins         ░░░░░░░░░░░░░░░░░
 
 ## 📈 GitHub Stats:
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mark-escosura&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mark-escosura&show_icons=true&count_private=true&theme=blueberry" alt="abhisheknaiidu" />
   
 ## 📚 Languages and Tools:
 <!--START_SECTION:mark-->
