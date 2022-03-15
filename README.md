@@ -27,17 +27,6 @@ const filipino = {
 }
 ```
 
-## 📊 This week i spent my time on:**
-<!--START_SECTION:waka-->
-```text
-JavaScript   44 hrs 46 mins  ████████████████████████░   95.91 % 
-JSON         52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-HTML         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-TypeScript   18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-Git Config   12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-```
-<!--END_SECTION:waka-->
-
 ## 📈 GitHub Stats:
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mark-escosura&show_icons=true&count_private=true&theme=blueberry" alt="abhisheknaiidu" />
