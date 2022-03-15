@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-You can find me on...[![Linkedin: markintech](https://img.shields.io/badge/-markintech-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mark-escosura/)](https://www.linkedin.com/in/mark-escosura/)
+[![Mark Escosura LinkedIn](https://img.shields.io/badge/Mark_Escosura-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/markintech/)
 
 ```javascript
 const filipino = {
