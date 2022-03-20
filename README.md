@@ -23,7 +23,7 @@ const filipino = {
   code: [Javascript, HTML, CSS],
   tools: [React, Redux, Node, ExpressJS, Styled-Components, SQL, MongoDB],
  
-  challenge: "learn, code, commit, push every single day"
+  challenge: "100 days of PERN stack"
 }
 ```
 
