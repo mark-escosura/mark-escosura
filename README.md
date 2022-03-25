@@ -24,7 +24,7 @@ const filipino = {
   code: [Javascript, HTML, CSS],
   tools: [React, Redux, Node, ExpressJS, Styled-Components, SQL, MongoDB],
  
-  challenge: "100 days of PERN stack"
+  challenge: "100 days of React"
 }
 ```
 
