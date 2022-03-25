@@ -1,4 +1,5 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Mark Escosura</h1>
+ 
 
 <!--
 **mark-escosura/mark-escosura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Mark Escosura LinkedIn](https://img.shields.io/badge/Mark_Escosura-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/markintech/)
+[![Mark Escosura LinkedIn](https://img.shields.io/badge/Mark_Escosura-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/markintech/) 
 
 ```javascript
 const filipino = {
