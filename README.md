@@ -1,28 +1,14 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Mark Escosura</h1>
- 
 
-<!--
-**mark-escosura/mark-escosura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graduate of [Bloom Institute of Technology](https://www.bloomtech.com/).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![Mark Escosura LinkedIn](https://img.shields.io/badge/Mark_Escosura-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/markintech/) 
+You can reach me at [![Mark Escosura LinkedIn](https://img.shields.io/badge/Mark_Escosura-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/markintech/).
 
 ```javascript
 const filipino = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
-  tools: [React, Redux, Node, ExpressJS, Styled-Components, SQL, MongoDB],
+  tools: [React, Redux, Node, ExpressJS, Styled-Components, SQL, VSCode, MongoDB],
  
   challenge: "100 days of React"
 }
