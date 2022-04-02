@@ -19,6 +19,14 @@ const filipino = {
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mark-escosura&show_icons=true&count_private=true&theme=blueberry" alt="abhisheknaiidu" />
 
 <!--START_SECTION:mark-->
+
+## :writing_hand: Languages:
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![SQL](https://img.shields.io/badge/SQL-324c6c?style=for-the-badge)](https://en.wikipedia.org/wiki/SQL)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+ 
   
 ## :gear: Frameworks:
 
