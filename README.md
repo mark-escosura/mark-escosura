@@ -9,8 +9,6 @@ const filipino = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
   tools: [React, Redux, Node, ExpressJS, Styled-Components, SQL, VSCode, MongoDB],
- 
-  challenge: "100 days of React"
 }
 ```
 
