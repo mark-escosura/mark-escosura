@@ -17,7 +17,7 @@ const filipino = {
 ## 💻 What I am doing
 
 - Expanding my knowledge on JavaScript
-- Solving CodeWars problems Daily
+- Solving [Code Wars](https://www.codewars.com/users/mark-escosura) problems Daily
 - Enhancing my front end skills through [Front End Mentor](https://www.frontendmentor.io/challenges) by building small projects
 - Building web applications with [React.js](https://reactjs.org/) & [Ant Design](https://ant.design/)
 
