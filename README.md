@@ -6,14 +6,6 @@ Graduate of [Bloom Institute of Technology](https://www.bloomtech.com/).
 
 You can reach me at [![Mark Escosura LinkedIn](https://img.shields.io/badge/Mark_Escosura-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/markintech/).
 
-```javascript
-const filipino = {
-  pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS],
-  tools: [React, Redux, Node, ExpressJS, Styled-Components, SQL, VSCode, MongoDB],
-}
-```
-
 ## 💻 What I am doing
 
 - Expanding my knowledge on JavaScript
