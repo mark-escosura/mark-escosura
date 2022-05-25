@@ -14,6 +14,12 @@ const filipino = {
 }
 ```
 
+## 💻 What I am doing
+
+- Expanding my knowledge on JavaScript
+- Solving CodeWars problems Daily
+- Building web applications with [React.js](https://reactjs.org/) & [Ant Design](https://ant.design/)
+
 ## 📈 GitHub Stats:
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mark-escosura&show_icons=true&count_private=true&theme=blueberry" alt="abhisheknaiidu" />
