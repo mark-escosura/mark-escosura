@@ -2,7 +2,7 @@
 
 <p>I am currently familiar with HTML5, JavaScript, CSS3, React.js, Redux, and I use Git, GitHub, Slack, and Zoom in an Agile work environment. I have experience configuring databases using either PostgreSQL or SQLite3, and creating RESTful APIs using Node.js, Knex.js, and Express.js. </p>
 
-Graduate of [Bloom Institute of Technology](https://www.bloomtech.com/).
+Graduate of [Bloom Institute of Technology](https://www.credly.com/badges/6062629d-6412-4afc-9b92-cb211edd9069/public_url).
 
 You can reach me at [![Mark Escosura LinkedIn](https://img.shields.io/badge/Mark_Escosura-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/markintech/).
 
