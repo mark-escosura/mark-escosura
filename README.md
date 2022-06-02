@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Mark Escosura</h1>
+<h1 align="center"> <img src="https://media1.giphy.com/media/3o72FfGORpzRczqz7y/200w.webp?cid=ecf05e475kyh8eg0oa4xk0dyngu3ewxnrzw9yygx77qbmjrz&rid=200w.webp&ct=sf" width="100px">, I'm Mark Escosura</h1>
 
 <p>I am currently familiar with HTML5, JavaScript, CSS3, React.js, Redux, and I use Git, GitHub, Slack, and Zoom in an Agile work environment. I have experience configuring databases using either PostgreSQL or SQLite3, and creating RESTful APIs using Node.js, Knex.js, and Express.js. </p>
 
