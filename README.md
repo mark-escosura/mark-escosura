@@ -7,7 +7,7 @@ I am currently familiar with HTML5, JavaScript, CSS3, React.js, Redux, and I use
 <hr>
 
 * 🌍  I'm based in California
-* 🖥️  See my portfolio at [https://mark-escosura-portfolio.vercel.app/](https://mark-escosura-portfolio.vercel.app/)
+* 🖥️   Here is my portfolio 🙋🏽‍♂️ -> [markintech.dev](https://markintech.dev)
 * ✉️  You can contact me at [escosuramarkse@gmail.com](mailto:escosuramarkse@gmail.com)
 * 🧠  I'm learning server-side rendering using CRUD Operations via ExpressJS Framework
 * 🤝  I'm open to collaborating on Projects that involve CRUD Operations
