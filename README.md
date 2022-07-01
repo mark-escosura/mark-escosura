@@ -11,7 +11,7 @@ I am currently familiar with HTML5, JavaScript, CSS3, React.js, Redux, and I use
 * ✉️  You can contact me at [escosuramarkse@gmail.com](mailto:escosuramarkse@gmail.com)
 * 🧠  I'm learning React Hooks and how to create custom hooks
 * 🤝  I'm open to collaborating on Projects that involve CRUD Operations
-* ⚡  I enjoy playing games such as Call Of Duty Mobile and Black Desert Online Mobile. I also enjoy watching anime and Korean dramas during my free time.
+* ⚡  I enjoy playing games such as Wildrift, and Call of Duty Mobile.
 
 <hr>
 
