@@ -1,29 +1,19 @@
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Mark Escosura</h1>
+<h1 align="center">Mark Escosura</h1>
 <div align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Graduate+of+Bloom+Institute+of+Technology;Full+Stack+Developer;Front-End+Developer|%20;Eat.%20Code.%20Sleep.%20Repeat.&center=true&width=550&height=45&color=a855f7"></a>
  </div>
-I am currently familiar with HTML5, JavaScript, CSS3, React.js, Redux, and I use Git, GitHub, Slack, and Zoom in an Agile work environment. I have experience configuring databases using either PostgreSQL or SQLite3, and creating RESTful APIs using Node.js, Knex.js, and Express.js.
+A results-oriented Full Stack Developer with a strong foundation in modern web technologies and a passion for building scalable and efficient applications.
 
 <hr>
 
-* 🌍  I'm based in California
-* 🖥️   Here is my portfolio 🙋🏽‍♂️ -> [markintech.dev](https://markintech.dev)
-* ✉️  You can contact me at [escosuramarkse@gmail.com](mailto:escosuramarkse@gmail.com)
-* 🧠  I'm learning React Hooks and how to create custom hooks
-* 🤝  I'm open to collaborating on Projects that involve CRUD Operations
-* ⚡  I enjoy playing games such as Wildrift, and Call of Duty Mobile.
+* 🌍 Based in sunny California, passionate about crafting efficient and user-friendly web applications.
+* 🖥️ Check out my portfolio: [markintech.dev](https://markintech.dev) 🙋🏽‍♂️
+* ✉️ You can reach me at: [escosuramarkse@gmail.com](mailto:escosuramarkse@gmail.com)
+* 🧠 Excitedly exploring the potential of Large Language Models (LLMs) and their applications in software development, particularly in **automating code generation and enhancing developer workflows**.
+* 🤝 Eager to collaborate on projects leveraging **cloud technologies (AWS, Azure, GCP)** and exploring innovative solutions in **serverless architectures and event-driven systems**.
+* ⚡ In my downtime, I enjoy the fast-paced world of day trading, often analyzing charts and trading NQ (Nasdaq 100 futures).
 
 <hr>
-
-<div align="center">
-
-<a href="https://www.twitter.com/ayeitsmaark" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/ayeitsmaark?logo=twitter&style=for-the-badge&color=a855f7&labelColor=27272a"
-/></a><a href="https://www.github.com/mark-escosura" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/mark-escosura?logo=github&style=for-the-badge&color=a855f7&labelColor=27272a" /></a><a href="https://www.twitch.tv/instagood" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/instagood?logo=twitchsx&style=for-the-badge&color=a855f7&labelColor=27272a&label=TWITCH+STATUS" /></a>
-
- </div>
  
 <div align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Check+Out+My+Skills!&center=true&width=550&height=45&color=a855f7"></a>
