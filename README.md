@@ -58,8 +58,3 @@ A results-oriented Full Stack Developer with a strong foundation in modern web t
    </td>
   </tr>
  </table> 
- <table>
- <td width="50%" valign="top">
-<a href="http://www.github.com/mark-escosura"><img src="https://activity-graph.herokuapp.com/graph?username=mark-escosura&bg_color=27272a&color=ffffff&line=a855f7&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-  </td>
- </table>
